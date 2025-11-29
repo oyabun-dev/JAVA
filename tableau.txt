@@ -1,0 +1,24 @@
+=======
+07/11/25
+=======
+Les énumérations
+Les packages
+Next: P166
+=======
+07/11/25
+=======
+Correction TP sur les packages
+Introduction à l'Héritage
+Next: P181 sur le polymorphisme
+=======
+21/11/25
+=======
+Polymorphisme
+Next 193
+=======
+28/11/25
+=======
+Classe Object
+Classe abstraites
+Interface
+Next 202
